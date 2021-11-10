@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #be1616;
+    font-size: 3.1rem;
+}
+
+@keyframes taille {
+    from {
+        font-size: 3.5rem;
+    }
+
+    to {
+        font-size: 5.5rem;
+    }
+}
